@@ -107,7 +107,6 @@ Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
 whitenoise==5.2.0
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
 wincertstore==0.2
-wordcloud @ file:///C:/Users/user/PycharmProjects/pythonProject/wordcloud-1.8.1-cp38-cp38-win_amd64.whl
 wrapt==1.12.1
 yarl @ file:///C:/ci/yarl_1598045274898/work
 zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
